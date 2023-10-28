@@ -1,5 +1,5 @@
 
-DESCRIPTION
+DESCRIPTION :
 This project aims to conduct a comprehensive socioeconomic analysis focusing on
 marginal workers. The study will delve into the demographic attributes of this vital
 workforce, including age, industrial categorization, and gender distribution. To
